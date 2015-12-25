@@ -1,0 +1,9 @@
+## This is a markdown file
+
+  * __This__ is a sample markdown file ...
+  * This is _only_ a sample markdown file ...
+  * Had this been an actual markdown file, it would have had more interesting content ...
+
+It might even contain an enumerated list; 
+  1. with items like this,
+  1. or maybe like that.
