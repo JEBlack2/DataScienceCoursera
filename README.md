@@ -1,2 +1,2 @@
-# DataScienceCoursera
-An Example Repository for the Data Scientist's ToolBox Course.
+
+Browsable file at: http://jeblack2.github.io/PracticalMachineLearning/
